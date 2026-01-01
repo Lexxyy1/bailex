@@ -1,7 +1,7 @@
 {
-    "name": "@Lexxyy1/bailex",
+    "name": "@skyzopedia/baileys-mod",
     "version": "6.0.22",
-    "description": "WhatsApp API Modification By LexxyCode",
+    "description": "WhatsApp API Modification By Skyzopedia",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@Lexxyy1/libsignal-node",
+        "libsignal": "npm:@skyzopedia/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
