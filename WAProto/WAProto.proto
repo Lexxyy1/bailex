@@ -1009,6 +1009,7 @@ message Message {
     optional FutureProofMessage botInvokeMessage = 67;
     optional CallLogMessage callLogMesssage = 69;
     optional MessageHistoryBundle messageHistoryBundle = 70;
+    optional FutureProofMessage groupStatusMessageV2 = 103;
     optional EncCommentMessage encCommentMessage = 71;
     optional BCallMessage bcallMessage = 72;
     optional FutureProofMessage lottieStickerMessage = 74;
