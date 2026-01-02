@@ -11,11 +11,8 @@ export declare const makeNewsletterSocket: (config: SocketConfig) => {
     newsletterUpdatePicture: (jid: string, content: WAMediaUpload) => Promise<void>;
     newsletterRemovePicture: (jid: string) => Promise<void>;
     newsletterUnfollow: (jid: string) => Promise<void>;
-    newsletterFollow: (jid: string) => Promise<void>;
     newsletterUnmute: (jid: string) => Promise<void>;
     newsletterMute: (jid: string) => Promise<void>;
-    newsletterAction: (jid: string, type: 'follow' | 'unfollow' | 'mute' | 'unmute') => Promise<void>;
-    newsletterCreate: (name: string, description: string, reaction_codes: string) => Promise<NewsletterMetadata>;
     newsletterMetadata: (type: 'invite' | 'jid', key: string, role?: NewsletterViewRole) => Promise<NewsletterMetadata>;
     newsletterAdminCount: (jid: string) => Promise<number>;
     /**user is Lid, not Jid */
