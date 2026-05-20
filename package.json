@@ -1,7 +1,7 @@
 {
-    "name": "@lexxyatc/baileys",
-    "version": "6.0.22",
-    "description": "WhatsApp API Modification By Lexxyy1 | A WhatsApp Web API for NodeJS",
+    "name": "@yumenative/baileys",
+    "version": "2.0.3",
+    "description": "WhatsApp API Modification By K",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -10,11 +10,11 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "whiskeysockets"
+        "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/@whiskeysockets/baileys",
+    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
     "repository": {
-        "url": "https://www.npmjs.com/package/@whiskeysockets/baileys"
+        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:lib-node-js",
+        "libsignal": "npm:@unbanni723-tech/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -71,7 +71,7 @@
         "conventional-changelog-cli": "^2.2.2",
         "eslint": "^8.0.0",
         "jest": "^27.0.6",
-        "jimp": "^0.22.12",
+        "jimp": "^0.16.1",
         "link-preview-js": "^3.0.0",
         "open": "^8.4.2",
         "qrcode-terminal": "^0.12.0",
@@ -84,7 +84,7 @@
         "json": "^11.0.0"
     },
     "peerDependencies": {
-        "jimp": "^0.22.12",
+        "jimp": "^0.16.1",
         "link-preview-js": "^3.0.0",
         "qrcode-terminal": "^0.12.0",
         "sharp": "^0.32.2"
