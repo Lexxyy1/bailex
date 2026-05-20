@@ -10,11 +10,11 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "stvnnvs"
+        "lexxypanel"
     ],
-    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
+    "homepage": "https://www.npmjs.com/package/@lexxypanel/baileys",
     "repository": {
-        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
+        "url": "https://www.npmjs.com/package/@lexxypanel/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
